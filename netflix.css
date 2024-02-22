@@ -1,0 +1,151 @@
+body {
+    background: rgba(0,0,0,0.7)url("https://img.freepik.com/free-photo/cinematography-symbols-black-background_23-2147698946.jpg?w=740&t=st=1708609128~exp=1708609728~hmac=7cf6655938106a418722d0721fbebd83523808309738b269d59090da6d32af54");
+    /* background-size: cover; */
+    background-blend-mode: darken; 
+
+    
+}
+
+.material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 10,
+    'wght' 400,
+    'GRAD' 10,
+    'opsz' 30
+
+    
+}
+.nav-bar {
+    display: flex;
+    justify-content: right;
+    margin: 0;
+    padding-top: 20px;
+}
+@import url('https://storeseries.com/wp-content/uploads/2022/09/Cover.jpg');
+.heading {
+    color: red;
+    text-align: center;
+    padding-top: 0px;
+    font-size: larger;
+    font-family: 'Protest Guerrilla', sans-serif;
+    
+}
+.Search {
+    color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.label {
+    background: transparent;
+    height: 30px;
+    width: 200px;
+    color: aliceblue;
+}
+.categories {
+    color: red;
+}
+.categories:hover{
+    color:white;
+}
+#continue {
+    color: red;
+    background: transparent;
+    height: 30px;
+    border-radius: 9px;
+    font-size: 20px;
+
+}
+.About  {
+    display: flex;
+    flex-direction: row;
+    /* color: red; */
+    margin: 60px;
+    font-size: px;
+    color: aliceblue;
+    margin-top: 200px;
+
+}
+.question {
+
+}
+.care {
+    margin: 20px;
+    margin-top: -10px;
+}
+.logo {
+    font-size: 150px;
+    animation-name: ;
+    animation-duration: 5s ease;
+    
+}
+.btn {
+    height: 36px;
+    width: 50px;
+    border: 2px solid white;
+    background: transparent;
+}
+.header:hover{
+    color: blue;
+}
+
+.para {
+    margin: 100px;
+    font-size: 40px;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+
+}
+.email {
+    margin: 90px;
+    height:40px;
+    width: 300px;
+    background: transparent;
+    /* margin-right: 500px; */
+    /* display: flex;
+    justify-content: center; */
+}
+.email:hover {
+    color: whitesmoke;
+}
+.start {
+    margin: -90px;
+    height:50px ;
+    background-color:red;
+}
+.start-btn {
+    margin: 0px;
+    margin-right: 170px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.down-load {
+    color:white ;
+    margin: 30px;
+}
+.movies {
+    height: 200px;
+    width: 300px;
+    display: flex;
+    margin: 50px;
+
+}
+.lang {
+    color: aliceblue;
+    font-size: 20px;
+    
+}
+.lang:hover {
+    color: red;
+
+}
+#set-up {
+    font-size: 20px;
+}
+#set-up:hover {
+    color: red;
+}
